@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:summaryOff="Self-destruct mode off" android:key="self_destruct" android:title="Self Destruct" android:summary="Phone will self-destruct when you hold down the power button" android:summaryOn="Self-destruct mode on"/>
+    
+
+</PreferenceScreen>

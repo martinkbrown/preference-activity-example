@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:dialogTitle="Username" android:dialogMessage="Please enter your Username" android:summary="Username for logging in to this app" android:title="Username" android:key="username"/>
+    <CheckBoxPreference android:summaryOff="I do not want your spam" android:key="spam" android:title="Spam" android:summaryOn="Sign me up for spam"/>
+</PreferenceScreen>
