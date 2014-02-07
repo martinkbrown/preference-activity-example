@@ -15,7 +15,6 @@ public class MainActivity extends Activity {
     
 	SharedPreferences mPrefs;
 	private final String USERNAME = "username";
-	private final String SPAM = "spam";
 	
 	private OnSharedPreferenceChangeListener mSharedPreferencesListener = new SharedPreferences.OnSharedPreferenceChangeListener() {
         public void onSharedPreferenceChanged(SharedPreferences prefs, String key) {

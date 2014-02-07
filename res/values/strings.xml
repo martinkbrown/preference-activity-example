@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, PreferenceActivityExampleActivity!</string>
     <string name="app_name">PreferenceActivityExample</string>
+    <string name="prompt">Press the Menu Button</string>
 
 </resources>
